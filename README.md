@@ -1,0 +1,2 @@
+# AMBA-AHB-Lite-1-Master-2-Slave-Subsystem-Verification-Platform
+A robust, class-based SV verification environment designed to validate a high-performance AMBA AHB-Lite interconnect matrix handling mixed-latency target slaves. The platform features fully randomized constrained stimulus generation, pipeline-aligned checking, and automated functional coverage mapping tailored for simulation on Cadence Xcelium 
