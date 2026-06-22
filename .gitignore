@@ -1,0 +1,25 @@
+# Cadence Xcelium Compilation & DB Artifacts
+xcelium.d/
+cov_work/
+imc_report/
+waves.shm/
+*.history
+*.key
+*.diag
+
+# SimVision Window Cache Configurations
+.simvision/
+.simvision_*.pcf
+waves.shm.log
+
+# Simulation Run Logs
+xrun.log
+xrun_batch.log
+xrun_gui.log
+ncvlog.log
+ncelab.log
+ncsim.log
+
+# Common Operating System Temporary Files
+.DS_Store
+Thumbs.db
